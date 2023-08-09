@@ -1,9 +1,9 @@
-import Categories from '@modules/homePage/Categories'
-import Features from '@modules/homePage/Features'
-import Hero from '@modules/homePage/Hero'
-import HotOffer from '@modules/homePage/HotOffer'
-import PopularPicks from '@modules/homePage/PopularPicks'
-import Slider from '@modules/homePage/Slider'
+import Categories from '@modules/homepage/Categories'
+import Features from '@modules/homepage/Features'
+import Hero from '@modules/homepage/Hero'
+import HotOffer from '@modules/homepage/HotOffer'
+import PopularPicks from '@modules/homepage/PopularPicks'
+import Slider from '@modules/homepage/Slider'
 
 const HomePage = () => {
   return (
