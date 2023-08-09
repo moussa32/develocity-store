@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Long Sleeve Jersey with DEVE Logo",
+    "price": 49,
+    "slug": "long-sleeve-jersey",
+    "images": [{ "src": "", "alt": "" }]
+  },
+  {
+    "id": 2,
+    "name": "Cup DEVE Logo",
+    "price": 50,
+    "slug": "cup-deve-logo",
+    "images": [{ "src": "", "alt": "" }]
+  },
+  {
+    "id": 3,
+    "name": "Cup DEVE Logo",
+    "price": 50,
+    "slug": "",
+    "images": [{ "src": "", "alt": "" }]
+  }
+]

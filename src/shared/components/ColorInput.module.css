@@ -1,0 +1,3 @@
+.colorInput::before {
+  background: var(--before-background-color);
+}

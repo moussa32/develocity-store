@@ -1,0 +1,132 @@
+{
+  "contact": "contact",
+  "develoctyStore": "Develocty Store",
+  "outOfStock": "out of stock",
+  "inStock": "in stock",
+  "allProducts": "all products",
+  "contactUs": "contact us",
+  "item": "item",
+  "quantity": "quantity",
+  "checkout": "checkout",
+  "youMayAlsoLike": "you may also like",
+  "remove": "remove",
+  "orderSummery": "order summary",
+  "shipping": "shipping",
+  "salesTax": "sales tax",
+  "subtotal": "subtotal",
+  "weAccept": "We accept",
+  "calculatedAtCheckout": "Calculated at checkout",
+  "noProductsInThisCategory": "no products in this category",
+  "shippingAndReturn": "Shipping & Return",
+  "free": "free",
+  "addToCart": "Add to Cart",
+  "logout": "logout",
+  "inputs": {
+    "email": "email",
+    "firstName": "first name",
+    "yourName": "your name",
+    "username": "username",
+    "lastName": "last name",
+    "password": "password",
+    "repeatPassword": "repeat password",
+    "gender": "gender",
+    "yourTopic": "your topic",
+    "yourComment": "your comment",
+    "submit": "submit",
+    "invalidEmail": "invalid email",
+    "required": "required",
+    "passwordMustMatch": "Passwords must match",
+    "save": "save"
+  },
+  "homePage": {
+    "getThemNow": "Get them now!",
+    "popularPicks": "popular picks",
+    "freeShipping": "free shipping",
+    "freeShippingDescription": "Free worldwide shipping on orders of $99",
+    "security": "security",
+    "securityDescription": "Payments are processed secure",
+    "crypto": "crypto",
+    "cryptoDescription": "Buy with crypto and get more benefits",
+    "merchDrops": "Merch Drops",
+    "merchDropsDescription": "New drops every month, stay updated!",
+    "createAnAccount": "Create an account"
+  },
+  "authPage": {
+    "login": "sign in",
+    "loginDetails": "login details",
+    "register": "register",
+    "forgotYourPassword": "Forgot your password?",
+    "submitLogin": "sign in",
+    "donTHaveAccount": "Don’t have an account?",
+    "createAccount": "Create an account",
+    "joinOurStore": "Join Our Store And Get 20% OFF",
+    "benefitsDescription": "As a member of our store you'll get benefits and will be able to track all your orders and activites.",
+    "benefits": [
+      "A 20% discount voucher for your next purchase",
+      "Access to all membership benefits",
+      "Limited edition products and collections",
+      "Special offers and promotions"
+    ],
+    "joinReward": "Join now and get rewarded.",
+    "timeToUnlock": "It's time to unlock the best of our store.",
+    "registerSuccessMessage": "You have been successfully signup",
+    "selectGender": "select gender"
+  },
+  "productsPage": {
+    "products": "products",
+    "availability": "availability",
+    "categories": "categories",
+    "size": "size",
+    "colors": "colors"
+  },
+  "contactUsPage": {
+    "forInquiries": "For all store inquiries, contact",
+    "successMessage": "your message has been successfully send"
+  },
+  "navbar": {
+    "home": "home",
+    "apparel": "apparel",
+    "lifestyle": "lifestyle",
+    "drops": "drops",
+    "selectLanguage": "selectLanguage"
+  },
+  "footer": {
+    "return": "Returns & FAQ",
+    "privacyPolicy": "privacy policy",
+    "backToDevelocity": "Back to Develocity"
+  },
+  "cart": {
+    "itemAdded": "item added",
+    "cartSubTotal": "Cart subtotal ({{itemsCount}} Item)",
+    "viewCart": "view cart",
+    "excludesSalesTax": "Excludes sales tax.",
+    "yourCart": "your cart",
+    "totalItems": "Total ({{totalItems}} items)",
+    "yourOrderHasBeenSuccessfullyPlaced": "Your order has been successfully placed",
+    "productHasBeenAddedSuccessfully": "Product has been added to your cart successfully",
+    "loginToCheckOut": "Login to checkout"
+  },
+  "dashboard": {
+    "orderDetails": "order details",
+    "yourOrders": "your orders",
+    "allOrders": "all orders",
+    "editProfile": "edit profile",
+    "notifications": "notifications",
+    "orders": "orders",
+    "settings": "settings",
+    "orderSteps": {
+      "pickUpLocation": "pick up Location",
+      "packageReceived": "package received",
+      "dropOffLocation": "Drop off Location",
+      "deliverySuccessful": "Delivery Successful"
+    }
+  },
+  "languages": {
+    "english": "english",
+    "arabic": "arabic",
+    "spanish": "spanish",
+    "china": "china",
+    "russian": "russian",
+    "french": "french"
+  }
+}
