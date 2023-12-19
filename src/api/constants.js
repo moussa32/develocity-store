@@ -2,7 +2,7 @@ import axios from 'axios'
 import i18next from 'i18next'
 import { toast } from 'react-toastify'
 
-export const baseURL = 'https://matgar.develocity.app'
+export const baseURL = 'https://store.develocity.link'
 export const storeBaseURL = `${baseURL}/wp-json/wc/v3`
 
 axios.interceptors.request.use((config) => {
